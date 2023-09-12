@@ -1,0 +1,3 @@
+- [ ] Add more endpoints
+- [ ] Use custom errors
+- [ ] Unit testing
